@@ -1,9 +1,84 @@
-body {
+/*body {
   margin: 0;
 }
+.splash {
+}
+h1 {
+  color: #323232;
+  font-family: PT Sans Narrow Bold, sans-serif;
+  font-size: 1.875em;
+}
 
+h2 {
+  font-family: PT Sans Narrow Bold, sans-serif;
+  font-size: 1.5em;
+  color: #00897f;
+  text-transform: uppercase;
+}
 
+p {
+  font-family: PT Serif Regular, serif;
+  font-size: .875em;
+  line-height: 1.75em;
+  color: #323223;
+}
+
+a {
+  font-family: PT Serif Bold;
+  font-size: 1em;
+  color: #f26522;
+}
+
+nav h1 {
+  font-family: PT Sans Narrow Bold, sans-serif;
+  font-size: 1.5em;
+  color: #323232;
+}
+
+nav p {
+  font-family: PT Sans Regular, sans-serif;
+  font-family: .9em;
+  color: #323232;
+}
+
+footer h1 {
+  font-family: PT Sans Narrow Bold, sans-serif;
+  color: #323232;
+  font-size: 1.25em;
+}
+footer {
+
+}
+img {
+  margin: 0 auto;
+}
+.cool-cats {
+  diplay: inline;
+  border-radius: 50%;
+}
+.main {
+  margin: 0 auto;
+}
+.about {
+  background-color: #eeeeee;
+  padding: 10px;
+  margin: 0 auto;
+  text-align: center;
+  display: inline-block;
+}
+.kat {
+  width: 250px;
+}
+.mavis {
+  width: 250px;
+  display: inline-block;
+}*/
 /* On devices wider than 660px */
+
+body {
+  
+}
+
 @media(min-width: 660px) {
 }
 
