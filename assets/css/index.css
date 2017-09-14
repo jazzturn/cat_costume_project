@@ -105,6 +105,9 @@ a {
   font-size: 1em;
   color:#f26522;
 }
+nav {
+  height: 80px;
+}
 nav h1 {
   font-family:PT Sans Narrow Bold, sans-serif;
   font-size: 1.5em;
@@ -114,11 +117,92 @@ nav p {
   font-family: PT Sans Regular, sans-serif;
   font-size: .9em;
   color: #323232;
+  float: right;
+  display: block;
+  position: relative;
+  top: 15px;
 }
 footer h1 {
   font-family: PT Sans Narrow Bold, sans-serif;
   font-size: 1.25em;
   color: #323232;
+  text-align: center;
+}
+footer img {
+  width: 100%;
+}
+.main {
+  margin: 0 auto;
+  width: 700px;
+}
+.main_2 {
+  margin: 0 auto;
+  width: 700px;
+  background-color: #eeeeee;
+}
+.intro {
+  margin: 0 auto;
+}
+.intro h1 {
+  text-align: center;
+}
+.kat {
+  float: left;
+  width: 50%;
+  background-color: #eeeeee;
+  height: 250px;
+}
+.mavis {
+  float: right;
+  width: 50%;
+  background-color: #eeeeee;
+  height: 250px;
+}
+.kat h2 {
+  text-align: center;
+  padding: 25px;
+}
+.mavis h2 {
+  text-align: center;
+  padding: 25px;
+}
+.cool-cats {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+}
+.main_2 {
+  text-align: center;
+  margin: 0 auto;
+  height: 405px;
+}
+.main_2 h1 {
+  text-align: center;
+padding: 40px 0 0 35px;
+}
+.hours {
+  background-color: white;
+  display: inline-block;
+  width: 250px;
+  height: 200px;
+  float: left;
+  margin-left: 50px;
+  padding: 15px;
+}
+.contact {
+  display: inline-block;
+  background-color: white;
+  width: 250px;
+  height: 200px;
+  float: right;
+  margin-right: 50px;
+  padding: 15px;
+}
+.center {
+  text-align: center;
+}
+.fix-it {
+  padding: 15px;
 }
 @media(min-width: 660px) {
 }
